@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## School Communities project
-An ongoing side project which lists different school communities with their links 
+An ongoing side project which lists different school communities with their social media links 
 
 ## Getting Started
 
